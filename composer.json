@@ -1,0 +1,12 @@
+{
+    "name": "MozMorris/phpapp",
+    "authors": [
+        {
+            "name": "Moz Morris",
+            "email": "moz@earthview.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
